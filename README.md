@@ -14,7 +14,6 @@ LMIS Consumption Reporting System is a summary-based health commodity consumptio
 <img src='https://github.com/pakistanlmis/consumption-reporting/blob/master/public/images/cr.png' width='500'>
 
 # Configuration details
-# consumption-reporting
 /***************************** R E A D    M E ****************************/
 
 For successfull running the module, kindly follow these steps:
